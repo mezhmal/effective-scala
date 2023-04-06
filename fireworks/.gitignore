@@ -82,5 +82,7 @@ hs_err_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/scala,sbt,intellij,visualstudiocode
 
-.metals/*
+.bloop
+.metals
 .scalafmt.conf
+**/metals.sbt
